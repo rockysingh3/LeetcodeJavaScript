@@ -1,4 +1,5 @@
 // without repeating characters
+// number 3 on LeetCode
 
 function lengthOfLongestSubstring(s) {
     
