@@ -1,3 +1,4 @@
+// problem number 
 function isAnagram(s, t) {
 
     if(s.length !== t.length) {
@@ -9,7 +10,7 @@ function isAnagram(s, t) {
     // Fill sCharCounts
     for(let i=0; i<s.length; i++){
         const sChar = s[i]
-        sCharCounts[sChar] = sCharCounts[sChar]
+        sCharCounts[sChar] = sCharCounts[sChar] + 1 || 1
     }
 
     for (let i=0; i<t.length; i++) {
