@@ -3,9 +3,9 @@
 
 
 ## Pre-requisites
-** Javascript
-** Node.js/npm
-** Jest
+- Javascript
+- Node.js/npm
+- Jest
 
 ## Example
 
