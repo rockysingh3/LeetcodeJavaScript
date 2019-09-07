@@ -1,0 +1,2 @@
+const longestPalindrome = require('./index')
+
