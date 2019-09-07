@@ -1,18 +1,18 @@
-## JAVASCRIPT & LEETCODE problem bank using jest testing
+# JAVASCRIPT & LEETCODE PROBLEM BANK USING JEST TESTING
 
 
 
 ## Pre-requisites
-Javascript
-Node.js/npm
-jest
+** Javascript
+** Node.js/npm
+** Jest
 
 ## Example
 
 Run tests for isAnagram
 
-1. cd into the [problems] folder
-2. cd into [isAnagram] folder
+1. cd into the [problems](https://github.com/rockysingh3/LeetcodeJavaScript/tree/master/problems) folder
+2. cd into [isAnagram](https://github.com/rockysingh3/LeetcodeJavaScript/tree/master/problems/isAnagram) folder
 3. Then run:
 
-[npm run test]
+``` npm run test ```
